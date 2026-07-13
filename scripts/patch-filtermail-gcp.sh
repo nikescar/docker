@@ -2,7 +2,7 @@
 # Patch chatmail container to use custom filtermail from nikescar/filtermail
 set -e
 
-FILTERMAIL_VERSION="v0.7.5-gcp2"
+FILTERMAIL_VERSION="v0.7.5-gcp3"
 FILTERMAIL_REPO="nikescar/filtermail"
 ARCH=$(uname -m)
 
